@@ -1,4 +1,4 @@
-# PRODIGY_SD_01
+# TempConverter
 Title: Temperature Converter (Task 1 – Software Development Internship)
 This program converts temperatures between Celsius, Fahrenheit, and Kelvin based on user input.
 
